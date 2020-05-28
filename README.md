@@ -1,14 +1,13 @@
 <h1 align="center">GirlScript Twitter Bot</h1>
 
 <div align= "center">
-  <h3>A Twitter Bot that automatically retweets, favourites the tweets with hashtag <code>#girlscript</code></h3>
+  <h4>A Twitter Bot that automatically retweets, favourites the tweets with hashtag <code>#girlscript</code></h4>
 </div>
 
 
-## Follow on Twitter
-#### Click here [Girlscript Bot](https://twitter.com/girlscript_bot)
+## Follow on Twitter - Click [Girlscript Bot](https://twitter.com/girlscript_bot)
 
-:star: Star us on GitHub — it helps!
+### :star: Star us on GitHub — it helps!
 
 
 <p align="center"><img src="https://github.com/chandrikadeb7/Girlscript-Twitter-Bot/blob/master/Readme%20images/Screen%20Shot%202020-05-28%20at%2011.05.52%20AM.png"></p>
