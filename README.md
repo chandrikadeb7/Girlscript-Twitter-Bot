@@ -41,10 +41,34 @@ $ pip install tweepy
 * Click on [Create an app](https://developer.twitter.com/en/apps)
 * Enter the details and keep safe the access tokens generated.
 
-## :key: Deployment
 
 #### Enter your generated access tokens and consumer keys in the file <code>credentials.py</code>
+
+```
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
+```
 #### Edit the retweet and other details in the file <code>config.py</code>
+
+```
+# This is hastag which Twitter bot will search and retweet. You can edit this with any hastag .For example : '#javascript'
+QUERY = '#anything'
+
+# Twitter bot setting for liking Tweets
+LIKE = True 
+
+# Twitter bot setting for following user who tweeted
+FOLLOW = True
+
+# Twitter bot sleep time settings in seconds. For example SLEEP_TIME = 300 means 5 minutes.
+# you can decrease it or increase it as you like.Please,use large delay if you are running bot all the time  so that your account does not get banned.
+
+SLEEP_TIME = 300
+```
+
+## :key: Deployment
 
 * Sign up for a free account in [Heroku](heroku.com)
 * Click on New -> Create new app
